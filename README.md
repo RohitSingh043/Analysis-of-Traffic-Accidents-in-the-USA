@@ -1,6 +1,4 @@
-# Bad Drivers
-
-This folder contains data behind the story [Dear Mona, Which State Has The Worst Drivers?](http://fivethirtyeight.com/datalab/which-state-has-the-worst-drivers/)
+# Bad_drivers
 
 Variable | Source
 ---|---------

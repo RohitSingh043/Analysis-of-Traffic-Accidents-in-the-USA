@@ -1,7 +1,14 @@
-# Analysis-of-Traffic-Accidents-in-the-USA
-Analysis of Traffic Accidents in the USA: EDA; PCA; Multi-variate Regression and K-means Clutering
-In this report, I attempt to analyse the trasffic-related fatalities in the states of the USA. Preliminary examination of demographic information regarding traffic accident victims in each US state, it became evident that there is are significant disparities among the states. This sets forth the primary objective of the study i.e., to identify patterns in this disparity and develop a targeted action plan, rather than implementing a costly nationwide initiative. The data used by the report was originally collected by the National Highway Traffic Safety Administration and the National Association of Insurance Commissioners. The dataset was compiled by FiveThirtyEight.
+# Bad Drivers
 
-Preliminary anlsysis shows that there has been a persistent rise in the number of traffic-related fatalities, despite a decline in the rate of fatal road accidents since the 1980s, has reached an alarming ten-year high, fueled by the growing miles driven on our nation's roads. The report aims to employ a combination of data analysis techniques including data wrangling, visualization, dimensionality reduction, and unsupervised clustering to explore the reasons for such patterns and recommendations to mitigate the fatalities.
+This folder contains data behind the story [Dear Mona, Which State Has The Worst Drivers?](http://fivethirtyeight.com/datalab/which-state-has-the-worst-drivers/)
 
-The dataset can be accessed at (https://github.com/fivethirtyeight/data/tree/master/bad-drivers).
+Variable | Source
+---|---------
+`State` | N/A
+`Number of drivers involved in fatal collisions per billion miles` | National Highway Traffic Safety Administration, 2012
+`Percentage Of Drivers Involved In Fatal Collisions Who Were Speeding` | National Highway Traffic Safety Administration, 2009
+`Percentage Of Drivers Involved In Fatal Collisions Who Were Alcohol-Impaired` | National Highway Traffic Safety Administration, 2012
+`Percentage Of Drivers Involved In Fatal Collisions Who Were Not Distracted`	 | National Highway Traffic Safety Administration, 2012
+`Percentage Of Drivers Involved In Fatal Collisions Who Had Not Been Involved In Any Previous Accidents` | National Highway Traffic Safety Administration, 2012
+`Car Insurance Premiums ($)` | National Association of Insurance Commissioners, 2011
+`Losses incurred by insurance companies for collisions per insured driver ($)` | National Association of Insurance Commissioners, 2010
